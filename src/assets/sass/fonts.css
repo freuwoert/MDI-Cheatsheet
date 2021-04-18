@@ -1,0 +1,17 @@
+@font-face
+{
+     font-family: "MDI3";
+     src: url("../fonts/mdi_3_4_93/materialdesignicons-webfont.eot");
+     src: url("../fonts/mdi_3_4_93/materialdesignicons-webfont.eot") format("embedded-opentype"), url("../fonts/mdi_3_4_93/materialdesignicons-webfont.woff2") format("woff2"), url("../fonts/mdi_3_4_93/materialdesignicons-webfont.woff") format("woff"), url("../fonts/mdi_3_4_93/materialdesignicons-webfont.ttf") format("truetype");
+     font-weight: normal;
+     font-style: normal;
+}
+
+@font-face
+{
+     font-family: "MDI4";
+     src: url("../fonts/mdi_4/materialdesignicons-webfont.eot");
+     src: url("../fonts/mdi_4/materialdesignicons-webfont.eot") format("embedded-opentype"), url("../fonts/mdi_4/materialdesignicons-webfont.woff2") format("woff2"), url("../fonts/mdi_4/materialdesignicons-webfont.woff") format("woff"),  url("../fonts/mdi_4/materialdesignicons-webfont.ttf") format("truetype");
+     font-weight: normal;
+     font-style: normal;
+}
