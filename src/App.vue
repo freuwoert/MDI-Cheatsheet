@@ -153,6 +153,9 @@
                     &:hover
                         background: #ffffff0a
 
+                    &:focus
+                        box-shadow: 0 0 0 3px #ffffff0a
+
                     .name
                         line-height: 150%
                         letter-spacing: 0.5px

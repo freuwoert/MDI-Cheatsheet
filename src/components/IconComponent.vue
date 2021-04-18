@@ -2,7 +2,7 @@
     <div class="icon-container" :class="{'copied': copied}" @click="copy(source.hex)">
         <span class="icon" v-html="'&#'+parseInt(source.hex,16)+';'"></span>
         <div class="name">{{source.name}}</div>
-        <textarea ref="copybox" class="copybox"></textarea>
+        <textarea tabindex="-1" ref="copybox" class="copybox"></textarea>
     </div>
 </template>
 
