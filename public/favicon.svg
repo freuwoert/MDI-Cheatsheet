@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-favicon">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="favicon" clip-path="url(#clip-favicon)">
+    <g id="Google_Material_Design_Logo">
+      <g id="Ellipse_1" data-name="Ellipse 1" fill="none" stroke="#6930c3" stroke-width="10">
+        <circle cx="100" cy="100" r="100" stroke="none"/>
+        <circle cx="100" cy="100" r="95" fill="none"/>
+      </g>
+      <g id="Pfad_1" data-name="Pfad 1" transform="translate(26.4 26.4)" fill="none">
+        <path d="M3.6,3.6h140v140H3.6Z" stroke="none"/>
+        <path d="M 13.60000610351563 13.60000610351563 L 13.60000610351563 133.6000061035156 L 133.6000061035156 133.6000061035156 L 133.6000061035156 13.60000610351563 L 13.60000610351563 13.60000610351563 M 3.600006103515625 3.600006103515625 L 143.6000061035156 3.600006103515625 L 143.6000061035156 143.6000061035156 L 3.600006103515625 143.6000061035156 L 3.600006103515625 3.600006103515625 Z" stroke="none" fill="#6930c3"/>
+      </g>
+      <g id="Pfad_2" data-name="Pfad 2" transform="translate(26.4 26.4)" fill="none">
+        <path d="M143.6,3.6l-70,140L3.6,3.6Z" stroke="none"/>
+        <path d="M 19.78033447265625 13.60000610351563 L 73.59999084472656 121.2393035888672 L 127.4196166992188 13.60000610351563 L 19.78033447265625 13.60000610351563 M 3.599990844726563 3.600006103515625 L 143.5999603271484 3.600006103515625 L 73.59999084472656 143.6000061035156 L 3.599990844726563 3.600006103515625 Z" stroke="none" fill="#6930c3"/>
+      </g>
+      <path id="Pfad_3" data-name="Pfad 3" d="M0,0H200V200H0Z" fill="none"/>
+    </g>
+  </g>
+</svg>
